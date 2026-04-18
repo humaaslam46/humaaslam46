@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Huma Aslam</h1>
-<h3 align="center">Frontend Developer | Building Modern Web Experiences</h3>
+
+<h3 align="center">
+Aspiring AI/ML Engineer | Python | Machine Learning | Building Real-World Projects
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Enthusiast;Building+Real+World+Projects;Python+%7C+Machine+Learning+%7C+NLP;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <a href="https://www.humaaslam.site" target="_blank">
-    🌐 Visit My Portfolio
+    🌐 Portfolio
+  </a> •
+  <a href="https://github.com/humaaslam46" target="_blank">
+    💻 GitHub
   </a>
 </p>
 
@@ -11,53 +21,61 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 Passionate **Frontend Developer**
-- 💻 Focused on building **clean, responsive, and user-friendly websites**
-- 🚀 Currently improving my skills in **modern web development**
-- 🌱 Learning **advanced JavaScript & frontend frameworks**
-- 📍 Always excited to work on **creative web projects**
+- 🤖 Aspiring **AI/ML Engineer** with hands-on project experience  
+- 📊 Skilled in **Machine Learning, NLP, and Data Analysis**  
+- 🧠 Built real-world projects using **Python, Scikit-learn, and Streamlit**  
+- 🌐 Also experienced in **Frontend Development (React, JavaScript)**  
+- 🚀 Passionate about solving real-world problems using AI  
 
 ---
 
-## 🌐 Portfolio
+## 🧠 Featured AI/ML Projects
 
-Check out my work here:
-
-🔗 **https://www.humaaslam.site**
+### 🔹 AI Requirement Classifier (NLP)
+- Built an NLP-based system to classify software requirements using **TF-IDF + Naive Bayes**
+- Implemented full ML pipeline with real-time predictions and confidence scoring
+- Developed interactive UI using **Streamlit**
 
 ---
 
-## 🚀 Featured Projects
+### 🔹 Online Shopper Purchase Prediction
+- Built ML models to predict customer purchase behavior using **Logistic Regression & Random Forest**
+- Performed **EDA, feature engineering, and model evaluation**
+- Achieved ~**89% accuracy**
 
-### 📝 Personal Blog Website
-A modern blog platform designed with a clean layout for publishing articles.
+---
 
-### 📂 Collapsible Sidebar Portfolio
-A portfolio website featuring a responsive collapsible sidebar navigation.
+### 🔹 AI Email Automation Agent
+- Designed AI-powered workflow automation using **n8n**
+- Integrated **Google Sheets + Gmail API**
+- Implemented logic, loops, and scalable automation workflows
 
-### 🤖 Echo-AI
-An AI-powered storytelling companion with a modern landing page design.
+---
 
-### ✅ Taskflow
-A responsive task management web application with an interactive UI.
+## 🌐 Web Projects
+
+- 🌐 **Business Nexus** – SaaS-style business networking platform (React, Vercel)  
+- ☁️ **Weather Dashboard** – Real-time API-based weather app  
+- ✅ **Task Flow** – Task management system using JavaScript  
+- 📝 **Blogs Platform** – Content publishing website  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
+<p align="center">
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
 
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Figma
+</p>
 
 ---
 
@@ -75,24 +93,9 @@ A responsive task management web application with an interactive UI.
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://www.humaaslam.site  
-
-💼 GitHub: https://github.com/humaaslam46  
+- 🌐 Portfolio: https://www.humaaslam.site  
+- 💼 GitHub: https://github.com/humaaslam46  
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
-<!--
-**humaaslam46/humaaslam46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Open to AI/ML Internship Opportunities*
