@@ -3,7 +3,8 @@
 <!-- Animated Header Banner — pink/purple gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,27,29&height=200&section=header&text=Huma%20Aslam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Frontend%20Developer&descAlignY=60&descSize=18"/>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="girl coding gif"/>
+<!-- Animated Coding Girl GIF — cute developer girl illustration -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="girl coding gif"/>
 
 <br/>
 
@@ -120,7 +121,7 @@ me.say_hi()
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humaaslam46&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humaaslam46&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=humaaslam46&theme=radical&hide_border=true" />
 
 <br/>
 
@@ -128,8 +129,8 @@ me.say_hi()
 
 <br/>
 
-<!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaaslam46&theme=redical&hide_border=true&area=true&custom_title=Huma's%20Contribution%20Graph&color=F78CA2&line=F48FB1&point=CE93D8" />
+<!-- Activity Graph — most reliable provider -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaaslam46&bg_color=0d1117&color=f48fb1&line=ce93d8&point=f78ca2&area=true&hide_border=true&custom_title=Huma's%20Contribution%20Graph" />
 
 </div>
 
@@ -181,11 +182,11 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake Animation -->
+<!-- GitHub Snake — generated via Actions workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humaaslam46/humaaslam46/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humaaslam46/humaaslam46/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/humaaslam46/humaaslam46/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/humaaslam46/humaaslam46/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/>
