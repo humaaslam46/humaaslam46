@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,27,29&height=200&section=header&text=Huma%20Aslam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Frontend%20Developer&descAlignY=60&descSize=18"/>
 
 <!-- Animated Coding Girl GIF — cute developer girl illustration -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="girl coding gif"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)" width="300" alt="girl coding gif"/>
 
 <br/>
 
