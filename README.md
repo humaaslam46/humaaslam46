@@ -41,7 +41,7 @@ class HumaAslam:
         self.education   = "BS Software Engineering @ Lahore Garrison University"
         self.location    = "Lahore, Pakistan 🇵🇰"
         self.email       = "humaaslam755@gmail.com"
-        self.portfolio   = "https://www.humaaslam.site"
+        self.portfolio   = "https://www.huma-aslam.site"
         self.currently   = ["Building AI-powered tools", "Exploring NLP & Automation"]
         self.passion     = "Turning ideas into intelligent, beautiful digital products 💖"
 
@@ -58,7 +58,7 @@ me.say_hi()
 - 🔬 Building real-world **ML models** — from EDA to deployment
 - 📝 Technical Research Writer producing **peer-level academic content**
 - 💡 Always experimenting with **n8n, LLMs, and workflow automation**
-- 🌐 Portfolio → [humaaslam.site](https://www.humaaslam.site)
+- 🌐 Portfolio → [huma-aslam.site](https://www.humaaslam.site)
 
 ---
 
