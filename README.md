@@ -65,16 +65,10 @@ me.say_hi()
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### 🌸 Frontend
+<div align="right">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
-
-### 💜 AI & Machine Learning
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,sklearn&theme=dark" />
-
 <br/>
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
@@ -83,14 +77,9 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-### 🌷 Design & UX
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 <br/>
-
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-### 🌺 Databases & Tools
 <img src="https://skillicons.dev/icons?i=mongodb,github,vercel,vscode&theme=dark" />
 
 <br/>
