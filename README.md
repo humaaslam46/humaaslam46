@@ -3,13 +3,14 @@
 <!-- Animated Header Banner — pink/purple gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,27,29&height=200&section=header&text=Huma%20Aslam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Frontend%20Developer&descAlignY=60&descSize=18"/>
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/> -->
+<!-- Hi There GIF — from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" alt="Hi There!!"/>
 
 <br/>
 
 <!-- Animated Typing SVG — pink tone -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F78CA2&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+intelligent+web+experiences+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8E%A8;NLP+%7C+Automation+%7C+React.js+%E2%9A%A1;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F78CA2&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+intelligent+web+experiences+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8E%A8;NLP+%7C+RAG+%7C+LangChain+%7C+LLMs+%F0%9F%A7%A0;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,13 +38,13 @@
 class HumaAslam:
     def __init__(self):
         self.name        = "Huma Aslam"
-        self.role        = ["Software Engineer", "Frontend Developer", "AI/ML Enthusiast"]
-        self.education   = "BS Software Engineering @ Lahore Garrison University"
+        self.role        = ["Software Engineer", "ML Intern", "Frontend Developer", "AI/ML Enthusiast"]
+        self.education   = "Final-year BS Software Engineering @ Lahore Garrison University"
         self.location    = "Lahore, Pakistan 🇵🇰"
         self.email       = "humaaslam755@gmail.com"
         self.portfolio   = "https://www.huma-aslam.site"
-        self.currently   = ["Building AI-powered tools", "Exploring NLP & Automation"]
-        self.passion     = "Turning ideas into intelligent, beautiful digital products 💖"
+        self.currently   = ["Building RAG chatbots", "ML internships @ FlyRank AI & SafeX"]
+        self.passion     = "Shipping working AI systems, not just prototypes 💖"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together ✨")
@@ -52,13 +53,13 @@ me = HumaAslam()
 me.say_hi()
 ```
 
-- 🎓 **BS Software Engineering** student at Lahore Garrison University
-- 🤖 Passionate about **AI, NLP, and intelligent automation**
-- 🎨 Crafting **responsive, modern frontends** with React.js
-- 🔬 Building real-world **ML models** — from EDA to deployment
+- 🎓 **Final-year BS Software Engineering** student at Lahore Garrison University
+- 🤖 Building **applied AI systems end-to-end** — RAG chatbots, LLMs, ML pipelines
+- 🔬 **ML Intern** at FlyRank AI & SafeX Solutions — data preprocessing, model evaluation, deployment
+- 🎨 Crafting **responsive, modern frontends** with React.js & Node.js
+- 💡 Always experimenting with **n8n, LangChain, FAISS, Gemini, and workflow automation**
 - 📝 Technical Research Writer producing **peer-level academic content**
-- 💡 Always experimenting with **n8n, LLMs, and workflow automation**
-- 🌐 Portfolio → [huma-aslam.site](https://www.humaaslam.site)
+- 🌐 Portfolio → [huma-aslam.site](https://www.huma-aslam.site)
 
 ---
 
@@ -75,6 +76,11 @@ me.say_hi()
 
 ### 💜 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -87,6 +93,7 @@ me.say_hi()
 
 ### 🌺 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -104,12 +111,13 @@ me.say_hi()
 
 | ✨ Project | 💡 Description | 🛠 Tech |
 |:---|:---|:---|
+| **🧠 SafeX Assistant — RAG Chatbot** | Production RAG chatbot with FAISS + sentence-transformer embeddings + Gemini 2.5 Flash via LangChain; Dockerized FastAPI deployed on HuggingFace Spaces | Python, FAISS, LangChain, Gemini, FastAPI, Docker |
 | **🤖 AI Requirement Classifier** | NLP-powered system classifying software requirements using TF-IDF + Naive Bayes, deployed on Streamlit | Python, Scikit-learn, Streamlit |
 | **📧 AI Email Automation Agent** | Intelligent n8n workflow automating personalised email campaigns with Gmail & Google Sheets | n8n, JavaScript, Gmail API |
 | **💼 Business Nexus** | Business networking platform connecting entrepreneurs, startups & investors | React.js, JS, CSS, Vercel |
 | **🌤️ Weather Sync Dashboard** | Real-time weather dashboard with live API integration & responsive UI | HTML, CSS, JS, Netlify |
 | **✅ Task Flow** | Dynamic task management app with DOM manipulation & real-time updates | JavaScript, HTML, CSS |
-| **💬 AI Chatbot Development** | Conversational AI chatbots for automation & customer interaction | Prompt Engineering, Automation |
+| **💬 AI Chatbot Development** | Conversational AI chatbots for automation & customer interaction | Prompt Engineering, n8n |
 
 </div>
 
@@ -120,7 +128,7 @@ me.say_hi()
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humaaslam46&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humaaslam46&theme=radical&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=humaaslam46&theme=radical&hide_border=true" />
 
 <br/>
 
@@ -129,13 +137,13 @@ me.say_hi()
 <br/>
 
 <!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaaslam46&theme=redical&hide_border=true&area=true&custom_title=Huma's%20Contribution%20Graph&color=F78CA2&line=F48FB1&point=CE93D8" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaaslam46&bg_color=0d1117&color=f48fb1&line=ce93d8&point=f78ca2&area=true&hide_border=true&custom_title=Huma's%20Contribution%20Graph" />
 
 </div>
 
 ---
 
-<!-- Pacman Game from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+<!-- Pacman from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 </div>
@@ -146,10 +154,11 @@ me.say_hi()
 
 <div align="center">
 
-![Google UX Design](https://img.shields.io/badge/Google%20UX%20Design-Professional%20Certificate-f48fb1?style=for-the-badge&logo=google&logoColor=white)
-![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-HP%20Life-ce93d8?style=for-the-badge&logo=hp&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-Alison-f06292?style=for-the-badge&logo=wordpress&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-NS%20Training-ba68c8?style=for-the-badge&logo=adobe&logoColor=white)
+![IT Automation Python](https://img.shields.io/badge/IT%20Automation%20with%20Python-Google%202026-f48fb1?style=for-the-badge&logo=google&logoColor=white)
+![Google AI Professional](https://img.shields.io/badge/Google%20AI%20Professional-2026-ce93d8?style=for-the-badge&logo=google&logoColor=white)
+![Google UX Design](https://img.shields.io/badge/Google%20UX%20Design-Professional%20Certificate-f06292?style=for-the-badge&logo=google&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-Alison-ba68c8?style=for-the-badge&logo=wordpress&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-NS%20Training-f48fb1?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
 
@@ -158,17 +167,20 @@ me.say_hi()
 ## 💼 Experience Snapshot
 
 ```
-🌸 Technical Research Writer      @ Leneur             (Sep 2025 – Present)
+🌸 Machine Learning Intern        @ FlyRank AI          (Jun 2026 – Sep 2026)
+   → AI workflow audit using Ethan Mollick framework; built reusable AI prompting systems
+
+🌸 Machine Learning Intern        @ SafeX Solutions      (Jun 2026 – Aug 2026)
+   → RAG chatbot with hosted demo; WhatsApp auto-reply bot with full CRM integration
+
+🌸 Technical Research Writer      @ Leneur              (Sep 2025 – Present)
    → Research papers, reviews & academic content in SE, Economics & Data Science
 
-🌸 Frontend Web Developer Intern  @ Elevvo Pathways    (Aug 2025 – Sep 2025)
+🌸 Frontend Web Developer Intern  @ Elevvo Pathways     (Aug 2025 – Sep 2025)
    → Built responsive UI components in React.js; remote collaboration
 
 🌸 Frontend Developer             @ DevelopersHub Corp  (Jul 2025 – Sep 2025)
    → Reusable components, UI performance & site usability enhancements
-
-🌸 Social Media Manager & Support @ DermaShine          (May 2022 – Present)
-   → Shopify + Meta Business Suite, order management & customer satisfaction
 ```
 
 ---
@@ -177,7 +189,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-humaaslam.site-f48fb1?style=for-the-badge)](https://www.humaaslam.site)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-huma--aslam.site-f48fb1?style=for-the-badge)](https://www.huma-aslam.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-huma--aslam01-ce93d8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huma-aslam01/)
 [![GitHub](https://img.shields.io/badge/GitHub-humaaslam46-f06292?style=for-the-badge&logo=github&logoColor=white)](https://github.com/humaaslam46)
 [![Email](https://img.shields.io/badge/Email-humaaslam755@gmail.com-ba68c8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humaaslam755@gmail.com)
@@ -189,9 +201,6 @@ me.say_hi()
 <div align="center">
 
 <!-- GitHub Snake Contribution Animation -->
-<!-- NOTE: This requires the GitHub Action to be set up in your repo.          -->
-<!-- See: https://github.com/Platane/snk for setup instructions.              -->
-<!-- Once set up, the action generates the SVG files automatically.           -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humaaslam46/humaaslam46/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humaaslam46/humaaslam46/output/github-contribution-grid-snake.svg" />
