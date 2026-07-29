@@ -65,29 +65,9 @@ me.say_hi()
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="right">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" />
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,sklearn&theme=dark" />
-<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+<div align="center">
 
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-<br/>
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-<img src="https://skillicons.dev/icons?i=mongodb,github,vercel,vscode&theme=dark" />
-
-<br/>
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,docker,sklearn,pytorch,figma,mongodb,github,vercel,vscode,gcp,postman,streamlit,anaconda,flask&theme=dark&perline=10" />
 
 </div>
 
