@@ -3,8 +3,8 @@
 <!-- Animated Header Banner — pink/purple gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,27,29&height=200&section=header&text=Huma%20Aslam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Frontend%20Developer&descAlignY=60&descSize=18"/>
 
-<!-- Hi There GIF — from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" alt="Hi There!!"/> -->
+Hi There GIF — from Anmol-Baranwal/Cool-GIFs-For-GitHub
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400" alt="Hi There!!"/>
 
 <br/>
 
