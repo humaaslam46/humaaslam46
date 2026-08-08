@@ -134,6 +134,9 @@ me.say_hi()
 ## 💼 Experience Snapshot
 
 ```
+🌸 AI Engineer                    @ TechAbout            (Aug 2026 – Present)
+   → Working across AI/ML development on real client projects
+
 🌸 Machine Learning Intern        @ FlyRank AI          (Jun 2026 – Sep 2026)
    → AI workflow audit using Ethan Mollick framework; built reusable AI prompting systems
 
