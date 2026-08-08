@@ -52,13 +52,14 @@ me = HumaAslam()
 me.say_hi()
 ```
 
-- 🎓 **Final-year BS Software Engineering** student at Lahore Garrison University
-- 🤖 Building **applied AI systems end-to-end** — RAG chatbots, LLMs, ML pipelines
-- 🔬 **ML Intern** at FlyRank AI & SafeX Solutions — data preprocessing, model evaluation, deployment
-- 🎨 Crafting **responsive, modern frontends** with React.js & Node.js
-- 💡 Always experimenting with **n8n, LangChain, FAISS, Gemini, and workflow automation**
-- 📝 Technical Research Writer producing **peer-level academic content**
-- 🌐 Portfolio → [huma-aslam.site](https://www.huma-aslam.site)
+-  **Final-year BS Software Engineering** student at Lahore Garrison University
+- **AI Engineer** at Tech About, serving AI skills in Real Client Projects.
+- Building **applied AI systems end-to-end** — RAG chatbots, LLMs, ML pipelines
+-  **ML Intern** at FlyRank AI & SafeX Solutions — data preprocessing, model evaluation, deployment
+-  Crafting **responsive, modern frontends** with React.js & Node.js
+-  Always experimenting with **n8n, LangChain, FAISS, Gemini, and workflow automation**
+-  Technical Research Writer producing **peer-level academic content**
+-  Portfolio → [huma-aslam.site](https://www.huma-aslam.site)
 
 ---
 
