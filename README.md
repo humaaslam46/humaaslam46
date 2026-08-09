@@ -43,10 +43,10 @@ class HumaAslam:
         self.email       = "humaaslam755@gmail.com"
         self.portfolio   = "https://www.huma-aslam.site"
         self.currently   = ["Building RAG chatbots", "ML internships @ FlyRank AI & SafeX"]
-        self.passion     = "Shipping working AI systems, not just prototypes 💖"
+        self.passion     = "Shipping working AI systems, not just prototypes "
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together ✨")
+        print("Thanks for dropping by! Let's build something amazing together ")
 
 me = HumaAslam()
 me.say_hi()
@@ -63,7 +63,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -73,7 +73,7 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
