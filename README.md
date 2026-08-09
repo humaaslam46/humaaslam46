@@ -77,7 +77,7 @@ me.say_hi()
 
 <div align="center">
 
-| ✨ Project | 💡 Description | 🛠 Tech |
+|  Project |  Description |  Tech |
 |:---|:---|:---|
 | **🧠 SafeX Assistant — RAG Chatbot** | Production RAG chatbot with FAISS + sentence-transformer embeddings + Gemini 2.5 Flash via LangChain; Dockerized FastAPI deployed on HuggingFace Spaces | Python, FAISS, LangChain, Gemini, FastAPI, Docker |
 | **🤖 AI Requirement Classifier** | NLP-powered system classifying software requirements using TF-IDF + Naive Bayes, deployed on Streamlit | Python, Scikit-learn, Streamlit |
