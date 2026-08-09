@@ -81,7 +81,7 @@ me.say_hi()
 |:---|:---|:---|
 | ** SafeX Assistant — RAG Chatbot** | Production RAG chatbot with FAISS + sentence-transformer embeddings + Gemini 2.5 Flash via LangChain; Dockerized FastAPI deployed on HuggingFace Spaces | Python, FAISS, LangChain, Gemini, FastAPI, Docker |
 | ** AI Requirement Classifier** | NLP-powered system classifying software requirements using TF-IDF + Naive Bayes, deployed on Streamlit | Python, Scikit-learn, Streamlit |
-| **📧 AI Email Automation Agent** | Intelligent n8n workflow automating personalised email campaigns with Gmail & Google Sheets | n8n, JavaScript, Gmail API |
+| ** AI Email Automation Agent** | Intelligent n8n workflow automating personalised email campaigns with Gmail & Google Sheets | n8n, JavaScript, Gmail API |
 | **💼 Business Nexus** | Business networking platform connecting entrepreneurs, startups & investors | React.js, JS, CSS, Vercel |
 | **🌤️ Weather Sync Dashboard** | Real-time weather dashboard with live API integration & responsive UI | HTML, CSS, JS, Netlify |
 | **✅ Task Flow** | Dynamic task management app with DOM manipulation & real-time updates | JavaScript, HTML, CSS |
