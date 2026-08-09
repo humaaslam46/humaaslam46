@@ -84,7 +84,7 @@ me.say_hi()
 | ** AI Email Automation Agent** | Intelligent n8n workflow automating personalised email campaigns with Gmail & Google Sheets | n8n, JavaScript, Gmail API |
 | **💼 Business Nexus** | Business networking platform connecting entrepreneurs, startups & investors | React.js, JS, CSS, Vercel |
 | **🌤️ Weather Sync Dashboard** | Real-time weather dashboard with live API integration & responsive UI | HTML, CSS, JS, Netlify |
-| **✅ Task Flow** | Dynamic task management app with DOM manipulation & real-time updates | JavaScript, HTML, CSS |
+| ** Task Flow** | Dynamic task management app with DOM manipulation & real-time updates | JavaScript, HTML, CSS |
 | **💬 AI Chatbot Development** | Conversational AI chatbots for automation & customer interaction | Prompt Engineering, n8n |
 
 </div>
