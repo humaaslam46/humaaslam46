@@ -132,7 +132,7 @@ me.say_hi()
 
 ---
 
-## 💼 Experience Snapshot
+##  Experience Snapshot
 
 ```
 🌸 AI Engineer                    @ TechAbout            (Aug 2026 – Present)
