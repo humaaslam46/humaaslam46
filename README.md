@@ -156,7 +156,7 @@ me.say_hi()
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
