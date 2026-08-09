@@ -91,7 +91,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
