@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F78CA2&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+intelligent+web+experiences+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Frontend+Developer+%F0%9F%8E%A8;NLP+%7C+RAG+%7C+LangChain+%7C+LLMs+%F0%9F%A7%A0;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
+<br/>
 
 <!-- Profile Views & Social Badges -->
 <p>
