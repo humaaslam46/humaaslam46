@@ -135,22 +135,22 @@ me.say_hi()
 ##  Experience Snapshot
 
 ```
-🌸 AI Engineer                    @ TechAbout            (Aug 2026 – Present)
+ AI Engineer                    @ TechAbout            (Aug 2026 – Present)
    → Working across AI/ML development on real client projects
 
-🌸 Machine Learning Intern        @ FlyRank AI          (Jun 2026 – Sep 2026)
+ Machine Learning Intern        @ FlyRank AI          (Jun 2026 – Sep 2026)
    → AI workflow audit using Ethan Mollick framework; built reusable AI prompting systems
 
-🌸 Machine Learning Intern        @ SafeX Solutions      (Jun 2026 – Aug 2026)
+ Machine Learning Intern        @ SafeX Solutions      (Jun 2026 – Aug 2026)
    → RAG chatbot with hosted demo; WhatsApp auto-reply bot with full CRM integration
 
-🌸 Technical Research Writer      @ Leneur              (Sep 2025 – Present)
+ Technical Research Writer      @ Leneur              (Sep 2025 – Present)
    → Research papers, reviews & academic content in SE, Economics & Data Science
 
-🌸 Frontend Web Developer Intern  @ Elevvo Pathways     (Aug 2025 – Sep 2025)
+ Frontend Web Developer Intern  @ Elevvo Pathways     (Aug 2025 – Sep 2025)
    → Built responsive UI components in React.js; remote collaboration
 
-🌸 Frontend Developer             @ DevelopersHub Corp  (Jul 2025 – Sep 2025)
+ Frontend Developer             @ DevelopersHub Corp  (Jul 2025 – Sep 2025)
    → Reusable components, UI performance & site usability enhancements
 ```
 
