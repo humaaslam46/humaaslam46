@@ -48,6 +48,7 @@ class HumaAslam:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together ")
 
+me = HumaAslam()
 me.say_hi()
 ```
 
