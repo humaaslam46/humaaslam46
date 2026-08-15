@@ -63,7 +63,6 @@ me.say_hi()
 
 ---
 
-## Tech Stack & Tools
 
 <div align="center">
 
