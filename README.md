@@ -63,7 +63,7 @@ me.say_hi()
 
 ---
 
-
+## Tech Stack & Tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,fastapi,docker,sklearn,pytorch,figma,mongodb,github,vercel,vscode,gcp,postman,streamlit,anaconda,flask&theme=dark&perline=10" />
