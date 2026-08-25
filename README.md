@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner — pink/purple gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,27,29&height=200&section=header&text=Huma%20Aslam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%2FENGINEER%20%7C%20FULL STACK%20DEVELOPER&descAlignY=60&descSize=18"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,27,29&height=200&section=header&text=Huma%20Aslam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=18"/>
 <br/>
 
 <!-- Animated Typing SVG — pink tone -->
