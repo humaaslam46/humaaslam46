@@ -131,29 +131,19 @@ Business networking platform designed to connect entrepreneurs, startups, and in
 
 <div align="center">
 
-<a href="https://github.com/humaaslam46">
-  <img
-    src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-f48fb1?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore My GitHub Repositories"
-  />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=humaaslam46&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=humaaslam46&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaaslam46&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=humaaslam46&style=flat-square&color=f48fb1&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
-
-<a href="https://github.com/humaaslam46?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/humaaslam46?style=flat-square&color=ce93d8&labelColor=2d1b35&label=FOLLOWERS"
-    alt="GitHub Followers"
-  />
-</a>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaaslam46&bg_color=0d1117&color=f48fb1&line=ce93d8&point=f78ca2&area=true&hide_border=true&custom_title=Huma%27s%20Contribution%20Graph" alt="Huma's Contribution Graph" />
 
 </div>
-
 ---
 
 ## Experience
