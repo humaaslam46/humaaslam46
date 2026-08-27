@@ -129,21 +129,29 @@ Business networking platform designed to connect entrepreneurs, startups, and in
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
-<!-- GitHub Statistics -->
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=humaaslam46&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+  alt="GitHub Stats"
+/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=humaaslam46&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=radical" alt="GitHub Stats"/>
-
-<!-- GitHub Streak -->
-
-<img height="170" src="https://streak-stats.demolab.com/?user=humaaslam46&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img
+  height="180"
+  src="https://streak-stats.demolab.com?user=humaaslam46&theme=radical&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<!-- Top Languages -->
-
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=humaaslam46&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaaslam46&layout=compact&theme=radical&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
 
 </div>
 
