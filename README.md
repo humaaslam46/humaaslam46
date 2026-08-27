@@ -129,8 +129,6 @@ Business networking platform designed to connect entrepreneurs, startups, and in
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
 
 <img
